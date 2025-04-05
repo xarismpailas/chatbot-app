@@ -1,3 +1,8 @@
+   "scripts": {
+     "build": "react-scripts build",
+     "setup-and-build": "npm install && npm run build",
+     // Υπόλοιπα scripts...
+   }
 {
   "name": "chatbot-saas-client",
   "version": "0.1.0",
