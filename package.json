@@ -1,0 +1,23 @@
+{
+  "name": "chatbot-saas",
+  "version": "1.0.0",
+  "description": "Chatbot SaaS platform with React frontend and Node.js backend",
+  "main": "index.js",
+  "scripts": {
+    "server": "cd server && npm start",
+    "client": "cd client && npm start",
+    "dev": "start-dev.bat",
+    "install-all": "npm install && cd server && npm install && cd ../client && npm install",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chatbot",
+    "saas",
+    "react",
+    "node",
+    "express",
+    "mongodb"
+  ],
+  "author": "",
+  "license": "ISC"
+} 
